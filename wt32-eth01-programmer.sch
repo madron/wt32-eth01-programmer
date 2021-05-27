@@ -497,8 +497,8 @@ L boards:WT32-ETH0-Board U?
 U 1 1 60AFDD67
 P 6200 1700
 AR Path="/60A18B00/60AFDD67" Ref="U?"  Part="1" 
-AR Path="/60AFDD67" Ref="U?"  Part="1" 
-F 0 "U?" H 6200 2565 50  0000 C CNN
+AR Path="/60AFDD67" Ref="U3"  Part="1" 
+F 0 "U3" H 6200 2565 50  0000 C CNN
 F 1 "WT32-ETH0-Board" H 6200 2474 50  0000 C CNN
 F 2 "boards:WT32-ETH0-Board" H 6200 850 50  0001 C CNN
 F 3 "" H 6150 2000 50  0001 C CNN
@@ -508,10 +508,10 @@ $EndComp
 Wire Wire Line
 	5400 2100 5600 2100
 $Comp
-L Connector:USB_C_Receptacle_USB2.0 J?
+L Connector:USB_C_Receptacle_USB2.0 J1
 U 1 1 60B437A8
 P 1400 1600
-F 0 "J?" H 1507 2467 50  0000 C CNN
+F 0 "J1" H 1507 2467 50  0000 C CNN
 F 1 "USB_C_Receptacle_USB2.0" H 1507 2376 50  0000 C CNN
 F 2 "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12" H 1550 1600 50  0001 C CNN
 F 3 "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" H 1550 1600 50  0001 C CNN
@@ -520,10 +520,10 @@ F 4 "C165948" H 1400 1600 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Transistor_BJT:S8050 Q?
+L Transistor_BJT:S8050 Q1
 U 1 1 60B8E982
 P 5350 3100
-F 0 "Q?" H 5540 3146 50  0000 L CNN
+F 0 "Q1" H 5540 3146 50  0000 L CNN
 F 1 "S8050" H 5540 3055 50  0000 L CNN
 F 2 "Package_TO_SOT_THT:TO-92_Inline" H 5550 3025 50  0001 L CIN
 F 3 "http://www.unisonic.com.tw/datasheet/S8050.pdf" H 5350 3100 50  0001 L CNN
@@ -532,10 +532,10 @@ F 4 "S8050" H 5350 3100 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Transistor_BJT:S8050 Q?
+L Transistor_BJT:S8050 Q2
 U 1 1 60B8F5BD
 P 5350 3950
-F 0 "Q?" H 5540 3996 50  0000 L CNN
+F 0 "Q2" H 5540 3996 50  0000 L CNN
 F 1 "S8050" H 5540 3905 50  0000 L CNN
 F 2 "Package_TO_SOT_THT:TO-92_Inline" H 5550 3875 50  0001 L CIN
 F 3 "http://www.unisonic.com.tw/datasheet/S8050.pdf" H 5350 3950 50  0001 L CNN
