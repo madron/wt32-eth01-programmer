@@ -3,3 +3,4 @@ fp-info-cache
 *.sch-bak
 *-cache.lib
 *-rescue.dcm
+*.zip

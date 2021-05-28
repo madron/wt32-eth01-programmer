@@ -1,0 +1,13 @@
+Reference, Quantity, Value, Footprint, Datasheet, LCSC
+C1 C3 ,2,"10uF","Capacitor_SMD:C_0603_1608Metric","~","C19702"
+C2 ,1,"100uF","Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B","~","C16133"
+D1 D2 D3 ,3,"LED","LED_SMD:LED_0603_1608Metric","~","C2286"
+J1 ,1,"USB_C_Receptacle_USB2.0","Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12","https://www.usb.org/sites/default/files/documents/usb_type-c.zip","C165948"
+Q1 Q2 ,2,"S8050","Package_TO_SOT_SMD:SOT-23","http://www.unisonic.com.tw/datasheet/S8050.pdf","C2146"
+R1 R2 R3 ,3,"470","Resistor_SMD:R_0402_1005Metric","~","C25117"
+R4 R5 R6 R7 ,4,"10k","Resistor_SMD:R_0402_1005Metric","~","C25744"
+SW1 ,1,"SW_DPST_x2","Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm","","C127509"
+U1 ,1,"AMS1117-3.3","Package_TO_SOT_SMD:SOT-223-3_TabPin2","https://datasheet.lcsc.com/lcsc/1811142212_Advanced-Monolithic-Systems-AMS1117-3-3_C6186.pdf","C6186"
+U2 ,1,"CH340G","Package_SO:SOIC-16_3.9x9.9mm_P1.27mm","http://www.datasheet5.com/pdf-local-2195953","C14267"
+U3 ,1,"WT32-ETH0-Board","boards:WT32-ETH0-Board","","SKIP"
+Y1 ,1,"12Mhz","Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm","~","C9002"

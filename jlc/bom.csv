@@ -1,0 +1,11 @@
+10uF Unpolarized capacitor,"C1,C3",C_0603_1608Metric,C19702
+100uF Polarized capacitor,C2,CP_EIA-3528-21_Kemet-B,C16133
+LED Light emitting diode,"D1,D2,D3",LED_0603_1608Metric,C2286
+USB_C_Receptacle_USB2.0 USB 2.0-only Type-C Receptacle connector,J1,USB_C_Receptacle_HRO_TYPE-C-31-M-12,C165948
+"S8050 0.7A Ic, 20V Vce, Low Voltage High Current NPN Transistor, TO-92","Q1,Q2",SOT-23,C2146
+470 Resistor,"R1,R2,R3",R_0402_1005Metric,C25117
+10k Resistor,"R4,R5,R6,R7",R_0402_1005Metric,C25744
+"SW_DPST_x2 Single Pole Single Throw (SPST) switch, separate symbol",SW1,SW_Push_1P1T_NO_6x6mm_H9.5mm,C127509
+"AMS1117-3.3 1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223",U1,SOT-223-3_TabPin2,C6186
+"CH340G USB serial converter, UART, SOIC-16",U2,SOIC-16_3.9x9.9mm_P1.27mm,C14267
+12Mhz Three pin ceramic resonator,Y1,Crystal_SMD_3225-4Pin_3.2x2.5mm,C9002
