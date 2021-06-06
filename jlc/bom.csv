@@ -1,3 +1,4 @@
+Comment,Designator,Footprint,LCSC Part #
 10uF Unpolarized capacitor,"C1,C3",C_0603_1608Metric,C19702
 100uF Polarized capacitor,C2,CP_EIA-3528-21_Kemet-B,C16133
 LED Light emitting diode,"D1,D2,D3",LED_0603_1608Metric,C2286
